@@ -1,0 +1,18 @@
+{
+  "name": "medisasCC",
+  "description": "",
+  "homepage": "",
+  "author": "Arie Radilla <>",
+  "version": "0.0.1",
+  "dependencies": {
+    "binaryheap": "0.0.3",
+    "prompt": "^0.2.14",
+    "twat": "^0.8.5"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "app.js"
+  }
+}
