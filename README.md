@@ -11,7 +11,7 @@ Run npm install in order to install the required node modules
 $ npm install
 ```
 
-## Quick Start
+### Quick Start
 
 Run the following command in order to start the script:
 ```bash
